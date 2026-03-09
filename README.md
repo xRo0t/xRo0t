@@ -76,16 +76,16 @@ status:   "Compiling the future, one byte at a time."
 ## 📊 System Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41&title_color=00FF41&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRo0t&layout=compact&theme=tokyonight&border_color=00FF41&title_color=00FF41&bg_color=0d1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRo0t&layout=compact&theme=tokyonight&border_color=00FF41&title_color=00FF41&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xRo0t&theme=tokyonight&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=xRo0t&theme=tokyonight&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRo0t&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&border_color=00FF41" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRo0t&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&border_color=00FF41" />
 </p>
 
 -----
@@ -93,7 +93,7 @@ status:   "Compiling the future, one byte at a time."
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xRo0t&theme=matrix&no-frame=false&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xRo0t&theme=matrix&no-frame=false&no-bg=false&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 -----
