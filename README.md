@@ -34,12 +34,12 @@ A **Full Stack Developer** with a passion for building everything from low-level
 
 ### 📊 System Stats & Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRo0t&layout=compact&theme=tokyonight&border_color=00FF41" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRo0t&layout=compact&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xRo0t&theme=tokyonight&border=00FF41" alt="xRo0t's GitHub Streak" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=xRo0t&theme=tokyonight&hide_border=false" alt="xRo0t's GitHub Streak" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ A **Full Stack Developer** with a passion for building everything from low-level
 ### 📡 Encrypted Communication
 <p align="left">
   <a href="https://x.com/ro0tpixel?s=21" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:contact@xro0t.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
