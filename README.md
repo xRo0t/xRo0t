@@ -1,20 +1,25 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17yc8S7S9m6A/giphy.gif" width="40px"> Hello, I'm Rashed (xRo0t) 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF41&height=200&section=header&text=xRo0t%20%7C%20Full%20Stack%20&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20Engines%2C%20Compilers%20%26%20Scalable%20Apps&descAlignY=62&descFontSize=20" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4eXN4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/L17yc8S7S9m6A/giphy.gif" width="100px">
 </p>
 
-### 👾 About Me
-A **Full Stack Developer** with a passion for building everything from low-level systems to high-level web applications. Currently diving deep into the world of **Compilers** and **Game Engines**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=venom&color=00FF41&height=200&section=header&text=xRo0t&fontSize=110&fontAlignY=38&fontStack=Press+Start+2P&desc=Full%20Stack%20•%20Compilers%20•%20Game%20Engines&descAlignY=62&descFontSize=20" />
+</p>
 
-- 🛠️ Creator of **Dolet Compiler** & **Kubic Game Engine**.
-- 🖥️ Enthusiast of **Linux Desktop Environments** and **Embedded Systems**.
-- 🚀 Current Focus: **Cyber Security** & **Mechatronics Engineering**.
-- 🔭 Working on: Expanding **Dolet** libraries and modules.
+### 👾 <span style="font-family: 'Press Start 2P', cursive;">About Me</span>
+<p align="left">
+  <font face="'Courier New', monospace" size="3">
+    A **Full Stack Developer** with a passion for building everything from low-level systems to high-level web applications. Currently diving deep into the world of **Compilers** and **Game Engines**.
+    <br><br>
+    - 🛠️ Creator of **Dolet Compiler** & **Kubic Game Engine**.
+    - 🖥️ Enthusiast of **Linux Desktop Environments**.
+    - 🚀 Current Focus: **Cyber Security** & **Mechatronics**.
+  </font>
+</p>
 
 ---
 
-### 🛡️ Cyber-Tech Stack 
+### 🛡️ <span style="font-family: 'Press Start 2P', cursive;">Cyber-Tech Stack</span>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -32,28 +37,26 @@ A **Full Stack Developer** with a passion for building everything from low-level
 
 ---
 
-### 📊 System Stats & Activity
+### 📊 <span style="font-family: 'Press Start 2P', cursive;">System Stats</span>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRo0t&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="97%" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=xRo0t&theme=tokyonight&hide_border=false" alt="xRo0t's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xRo0t&theme=tokyonight" alt="xRo0t's GitHub Streak" />
 </p>
 
 ---
 
-### 📡 Encrypted Communication
+### 📡 <span style="font-family: 'Press Start 2P', cursive;">Communication</span>
 <p align="left">
   <a href="https://x.com/ro0tpixel?s=21" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:contact@xro0t.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
-
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWY5YjU0MjZkZjhkNDk2M2I1Zjk1Zjk1Zjk1Zjk1Zjk1Zjk1Zjk1Zjk1JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZContext&ep=v1_internal_gif_by_id/QUO9uM30O3T3y/giphy.gif" width="150">
 <br>
-<i>"Compiling the future, one byte at a time."</i>
+<font face="'Courier New', monospace" size="3"><i>"Compiling the future, one byte at a time."</i></font>
 </p>
