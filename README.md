@@ -76,11 +76,6 @@ status:   "Compiling the future, one byte at a time."
 ## 📊 System Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xRo0t&show_icons=true&theme=tokyonight&border_color=00FF41&icon_color=00FF41&title_color=00FF41&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xRo0t&layout=compact&theme=tokyonight&border_color=00FF41&title_color=00FF41&langs_count=8&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=xRo0t&theme=tokyonight&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&background=0D1117" />
 </p>
 
@@ -88,12 +83,21 @@ status:   "Compiling the future, one byte at a time."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xRo0t&theme=react-dark&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&border_color=00FF41" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Commits-157%2B-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Since-Oct%202020-00FF41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</p>
+
 -----
 
 ## 🏆 Achievements
 
+> 💡 *Deploy your own [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) or [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) on Vercel for guaranteed uptime.*
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xRo0t&theme=matrix&no-frame=false&no-bg=false&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://img.shields.io/badge/Dolet%20Compiler-Creator-00FF41?style=for-the-badge&logo=llvm&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kubic%20Engine-Builder-00FF41?style=for-the-badge&logo=unity&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/LLVM%20%2F%20MLIR-Architect-00FF41?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117" />
 </p>
 
 -----
